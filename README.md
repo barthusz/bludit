@@ -1,1 +1,1 @@
-Some minor improvements for the backend interface of Bludit.
+Some minor styling improvements for the backend interface of Bludit. I actually loved the old backend styling of Bludit more then the new. So I decided to write a small plugin which brings the styling more in line of the original.
