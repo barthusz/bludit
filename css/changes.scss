@@ -1,0 +1,12 @@
+div.col-lg-10.pt-3.pb-1.h-100 {
+    height: calc(100% - 50px) !important;
+    #jseditorToolbar {
+        #jseditorToolbarLeft {
+            position: absolute;
+            bottom: -40px;
+        }
+        #jseditorToolbarRight {
+            float: left !important;
+        }
+    }
+}
