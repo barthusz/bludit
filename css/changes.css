@@ -5,3 +5,10 @@ div.col-lg-10.pt-3.pb-1.h-100 {
     bottom: -40px; }
   div.col-lg-10.pt-3.pb-1.h-100 #jseditorToolbar #jseditorToolbarRight {
     float: left !important; }
+    div.col-lg-10.pt-3.pb-1.h-100 #jseditorToolbar #jseditorToolbarRight button#jsmediaManagerOpenModal.btn.btn-light {
+      background-color: #FFF !important;
+      border-bottom: 0px !important; }
+    div.col-lg-10.pt-3.pb-1.h-100 #jseditorToolbar #jseditorToolbarRight button#jsoptionsSidebar.btn.btn-light {
+      background: none !important;
+      border-top: 0px !important;
+      border-right: 0px !important; }

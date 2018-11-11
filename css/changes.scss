@@ -7,6 +7,15 @@ div.col-lg-10.pt-3.pb-1.h-100 {
         }
         #jseditorToolbarRight {
             float: left !important;
+            button#jsmediaManagerOpenModal.btn.btn-light {
+                background-color: #FFF !important;
+                border-bottom: 0px !important;
+            }
+            button#jsoptionsSidebar.btn.btn-light {
+                background: none !important;
+                border-top: 0px !important;
+                border-right: 0px !important;
+            }
         }
     }
 }
